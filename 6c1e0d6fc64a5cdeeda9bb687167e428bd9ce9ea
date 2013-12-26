@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a68dd71_411796ed",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2013-12-26T15:14:56Z",
+      "side": 1,
+      "message": "Vreselijk woord, Nietnabijheidswaarschuwing?",
+      "revId": "6c1e0d6fc64a5cdeeda9bb687167e428bd9ce9ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
