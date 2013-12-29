@@ -1,0 +1,174 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a68dd71_89f610d6",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-12-29T06:27:26Z",
+      "side": 1,
+      "message": "achterkant!",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_0931c0a2",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-12-29T06:27:26Z",
+      "side": 1,
+      "message": "camera, zie regel 34.",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_290364ba",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-12-29T06:27:26Z",
+      "side": 1,
+      "message": "Touchpad lang aanraken start de camera-app",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_490018ab",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-12-29T06:27:26Z",
+      "side": 1,
+      "message": "Gebaren gebruiken als het scherm uit is",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_e92b0c32",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-12-29T06:27:26Z",
+      "side": 1,
+      "message": "ik denk dat het hier wel algemeen mag, dus camera zonder hoofdletter, doe je bij r.34 ook.",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_a925145d",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-12-29T06:27:26Z",
+      "side": 1,
+      "message": "Gebaren gebruiken om muziek te bedienen",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_c92ac82c",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-12-29T06:27:26Z",
+      "side": 1,
+      "message": "instellen, zie r.19",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_69207c4a",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-12-29T06:27:26Z",
+      "side": 1,
+      "message": "Dubbelklikken\n\nde O-click is een klikker apparaatje",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_e9d22c34",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-12-29T06:27:26Z",
+      "side": 1,
+      "message": "Het gaat er niet om wanneer de telefoon ver weg is, maar wanneer de O-click ver weg is. De melding krijg je op je telefoon, dus een melding op je telefoon als je foon ver weg is is nogal nutteloos xD\n\nAlert when not near phone\n\n- Melden wanneer ver weg van de telefoon",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_09d8e052",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-12-29T06:27:26Z",
+      "side": 1,
+      "message": "Het gaat niet om de verbinding van de telefoon, maar de verbinding tussen telefoon en o-click\n\nAlert when outside of reach\n\n- Melden wanneer buiten bereik",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
