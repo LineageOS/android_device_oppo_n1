@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "9a68dd71_c9e16800",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-29T06:32:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9a68dd71_89f610d6",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a68dd71_0931c0a2",
         "filename": "configpanel/res/values-nl/strings.xml",
         "patchSetId": 3
@@ -30,6 +48,24 @@
       "writtenOn": "2013-12-29T06:27:26Z",
       "side": 1,
       "message": "camera, zie regel 34.",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_89e4d00d",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-29T06:32:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9a68dd71_0931c0a2",
       "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "9a68dd71_29f124ce",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-29T06:32:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9a68dd71_290364ba",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a68dd71_490018ab",
         "filename": "configpanel/res/values-nl/strings.xml",
         "patchSetId": 3
@@ -64,6 +118,24 @@
       "writtenOn": "2013-12-29T06:27:26Z",
       "side": 1,
       "message": "Gebaren gebruiken als het scherm uit is",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_49eed8ed",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-29T06:32:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9a68dd71_490018ab",
       "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -87,6 +159,24 @@
     },
     {
       "key": {
+        "uuid": "9a68dd71_e9b9cced",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-29T06:32:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9a68dd71_e92b0c32",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a68dd71_a925145d",
         "filename": "configpanel/res/values-nl/strings.xml",
         "patchSetId": 3
@@ -98,6 +188,24 @@
       "writtenOn": "2013-12-29T06:27:26Z",
       "side": 1,
       "message": "Gebaren gebruiken om muziek te bedienen",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_09bf80d1",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-29T06:32:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9a68dd71_a925145d",
       "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -121,6 +229,24 @@
     },
     {
       "key": {
+        "uuid": "9a68dd71_a9b3d409",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-29T06:32:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9a68dd71_c92ac82c",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a68dd71_69207c4a",
         "filename": "configpanel/res/values-nl/strings.xml",
         "patchSetId": 3
@@ -132,6 +258,24 @@
       "writtenOn": "2013-12-29T06:27:26Z",
       "side": 1,
       "message": "Dubbelklikken\n\nde O-click is een klikker apparaatje",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_c9b888e8",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-29T06:32:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9a68dd71_69207c4a",
       "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -155,6 +299,24 @@
     },
     {
       "key": {
+        "uuid": "9a68dd71_69ce3c85",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-29T06:32:17Z",
+      "side": 1,
+      "message": "Haha jouw voorstel klinkt dan idd beter.",
+      "parentUuid": "9a68dd71_e9d22c34",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a68dd71_09d8e052",
         "filename": "configpanel/res/values-nl/strings.xml",
         "patchSetId": 3
@@ -166,6 +328,24 @@
       "writtenOn": "2013-12-29T06:27:26Z",
       "side": 1,
       "message": "Het gaat niet om de verbinding van de telefoon, maar de verbinding tussen telefoon en o-click\n\nAlert when outside of reach\n\n- Melden wanneer buiten bereik",
+      "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a68dd71_89cb7072",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-29T06:32:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9a68dd71_09d8e052",
       "revId": "e0e99f6366f0c27b73abf15c42b48fab3072017f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
