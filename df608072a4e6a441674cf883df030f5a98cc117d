@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a5de9d1_6693cea4",
+        "filename": "configpanel/res/values-nl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 7221
+      },
+      "writtenOn": "2013-12-31T02:25:28Z",
+      "side": 1,
+      "message": "\"In camera\"",
+      "revId": "df608072a4e6a441674cf883df030f5a98cc117d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
