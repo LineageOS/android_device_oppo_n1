@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a5ae5dd_62bbaf0f",
+        "filename": "configpanel/res/values-da/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-01-10T11:55:13Z",
+      "side": 1,
+      "message": "2014",
+      "revId": "e6222ef1e46f38c134b2376079fae40944737f90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
